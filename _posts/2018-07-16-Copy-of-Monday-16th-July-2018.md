@@ -1,5 +1,5 @@
 ---
-title: Copy of Monday 16th July 2018
+title: Monday 16th July 2018
 layout: post
 author: ian.permalino
 permalink: /copy-of-monday-16th-july-2018/
