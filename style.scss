@@ -15,11 +15,12 @@
 
 html {
   font-size: 100%;
-	background: //all4desktop.com/data_images/original/4236378-cool-wallpapers.jpg no-repeat center center fixed; 
-  background-size : cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+
+body {
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
 
 body {
