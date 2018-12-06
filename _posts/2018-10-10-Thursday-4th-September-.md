@@ -1,5 +1,5 @@
 ---
-title: Thursday 4th September 
+title: Thursday 31st September 
 layout: post
 author: ian.permalino
 permalink: /thursday-4th-september-/
@@ -8,7 +8,7 @@ published: true
 ---
 **_Not In Lesson._**
 
-**Date: Thursday 4th September**
+**Date: Thursday 31st November**
 
 **Reason: Orthodontist Appointment**
 
